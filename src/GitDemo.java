@@ -8,5 +8,6 @@ public class GitDemo {
         System.out.println("第一天学Git");
         System.out.println("学习创建分支");
         System.out.println("master 分支冲突");
+        System.out.println("分支冲突");
     }
 }
