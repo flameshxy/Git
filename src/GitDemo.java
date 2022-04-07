@@ -10,6 +10,6 @@ public class GitDemo {
         System.out.println("master 分支冲突");
         System.out.println("分支冲突");
         System.out.println("分支冲突1");
-
+        System.out.println("分支冲突2");
     }
 }
